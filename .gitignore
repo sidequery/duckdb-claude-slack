@@ -1,0 +1,5 @@
+.env.local
+.env
+dist/
+*.egg-info/
+__pycache__/
