@@ -5,7 +5,7 @@ description = "Slack bot that uses DuckDB ACP extension to call Claude Code"
 requires-python = ">=3.11"
 dependencies = [
     "slack-bolt",
-    "duckdb==1.1.2",
+    "duckdb==1.4.2",
 ]
 
 [project.scripts]
